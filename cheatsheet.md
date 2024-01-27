@@ -2,17 +2,19 @@
 
 Here you can find the most useful commands
 
-- `git clone <url>`: clone a repository
-- `git status`: show the status of the repository
-- `git add <file>`: add a file to the staging area
-- `git commit -m <message>`: commit the changes
-- `git push`: push the changes to the remote repository
-- `git pull`: pull the changes from the remote repository
-- `git log`: show the commit history
-- `git branch <name>`: create a new branch
-- `git branch -m <new-name>`: rename the current branch
-- `git switch <branch>`: switch to another branch
-- `git diff <branch>`: show the differences between the current branch and another branch
+|Command|Description|
+|-|-|
+|`git clone <url>`|Clone a repository|
+|`git status`|Show the status of the repository|
+|`git add <file>`|Add a file to the staging area|
+|`git commit -m <message>`|Commit the changes|
+|`git push`|Push the changes to the remote repository|
+|`git pull`|Pull the changes from the remote repository|
+|`git log`|Show the commit history|
+|`git branch <name>`|Create a new branch|
+|`git branch -m <new-name>`|Rename the current branch|
+|`git switch <branch>`|Switch to another branch|
+|`git diff <branch>`|Show the differences between the current branch and another branch|
 
 ## Setup
 

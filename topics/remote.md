@@ -1,4 +1,4 @@
-# Remote repos
+# Working with remote repos
 
 When working with remote repos, you need to knoe these commands
 
